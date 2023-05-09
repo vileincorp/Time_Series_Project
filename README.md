@@ -1,5 +1,5 @@
 # Time Series Project
-![Time Series](https://t0.gstatic.com/images?q=tbn:ANd9GcR55ptIRRlCCT8AUvgzf8E1tdX-4Z8X89s6bpo8k9LlDkI9OYFe)
+![Time Series](https://marmore-assets-v2.s3.eu-west-1.amazonaws.com/insights/migrated/GCC-Stock-Markets-Positive-earnings-growth-strengthen-business-optimism_1200x600.jpeg)
 
 By Keanan Ginell, Luke Sims, Alvaro Rodriguez
 # General Overview
