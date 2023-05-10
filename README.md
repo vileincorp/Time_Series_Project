@@ -12,4 +12,6 @@ By Keanan Ginell, Luke Sims, Alvaro Rodriguez
 
 # Conclusion
 
-# Repository File Sttructure
+# Next Steps
+
+# Repository File Structure
