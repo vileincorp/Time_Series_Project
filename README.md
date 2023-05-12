@@ -25,7 +25,15 @@ The data was collected from Zillow's Research Page, where there were about 3.4 m
 # Models
 
 # Conclusion
+- Forecasted prices of these homes trends upwards above 600,000 (USD) after 2018 (within a range of 3000 (USD))
+- Percent changes in the median house sales varies from -1% to 2%
+- Best five zip codes to invest: 20001, 20002, 20010, 20003,  and 20009, respectively
 
 # Next Steps
+- Diplomat Relocation: Helping other diplomats from various countries also find homes in the country where they will be working at specifically
+
+- Corporate Headquarters: Find, assess, and evaluate different homes for specific employees in a corporation once they move to different states after being in Washington DC
+
+- Private Contractors: Non-governmental entities who work closesly with the government; help relocate to different cities after working in DC, or help new contractors coming to DC find a home 
 
 # Repository File Structure
