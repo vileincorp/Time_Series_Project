@@ -61,7 +61,11 @@ The predicted model generates house sale prices after 2018, where the house pric
 
 # Repository File Structure
 ├── Images (for readme, presentation)
+--------
 ├── Final Political Presentation (pdf Presentation)
+--------
 ├── Time_Series_Notebook.ipynb
+--------
 ├── Zillow Data (dataset)
+--------
 └── README.md
