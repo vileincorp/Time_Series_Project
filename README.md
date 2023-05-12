@@ -37,6 +37,7 @@ The data was collected from Zillow's Research Page, where there were about 3.4 m
 - Private Contractors: Non-governmental entities who work closesly with the government; help relocate to different cities after working in DC, or help new contractors coming to DC find a home 
 
 # Repository File Structure
+
 ├── Zillow Data (dataset)
 ├── Images (for readme, presentation)
 ├── Time_Series_Notebook.ipynb
