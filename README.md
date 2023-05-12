@@ -22,8 +22,19 @@ Our company uses a predictive time series to help elected officials purchase and
 # Data Understanding
 The data was collected from Zillow's Research Page, where there were about 3.4 million homes all over the United States. We narrowed it down to 11,395 homes in the 21 counties of Washington DC. The timeline of the house prices varied from 1991 to 2018 in which the prices ranged from a minimum of $30200 - $ 1.6 million (USD).
 
-# Models
+Data info:
 
+RegiondID - zillow's own ID
+RegionName - Zipcodes, renamed to zipcode
+City - City
+State - State 
+Metro - Metropolitan area
+CountyName- - County
+SizeRank - ranking of zipcode sizes
+The rest - datas and their median monthly house sales
+
+# Models
+![Sarai Model](https://github.com/vileincorp/Time_Series_Project/blob/main/Sari_model.png)
 # Conclusion
 - Forecasted prices of these homes trends upwards above 600,000 (USD) after 2018 (within a range of 3000 (USD))
 - Percent changes in the median house sales varies from -1% to 2%
