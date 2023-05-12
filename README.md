@@ -60,8 +60,8 @@ The predicted model generates house sale prices after 2018, where the house pric
 - Private Contractors: Non-governmental entities who work closesly with the government; help relocate to different cities after working in DC, or help new contractors coming to DC find a home 
 
 # Repository File Structure
-├── Zillow Data (dataset)
 ├── Images (for readme, presentation)
+├── Final Political Presentation (pdf Presentation)
 ├── Time_Series_Notebook.ipynb
-├── Time_Series_Presentation.pdf
+├── Zillow Data (dataset)
 └── README.md
