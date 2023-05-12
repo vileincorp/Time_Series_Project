@@ -34,8 +34,17 @@ SizeRank - ranking of zipcode sizes
 The rest - datas and their median monthly house sales
 
 # Models
-<img src="https://github.com/vileincorp/Time_Series_Project/blob/main/Sari_model.png" alt="Sarai Model" style="max-width: 1200px; max-height: 600px;">
+![SARAIMODEL](https://github.com/vileincorp/Time_Series_Project/blob/main/Images/Sari_model.png)
+The house prices in the DC area will be over $700,000 after 2016, with a house price variance of $3000. The house price model is also about 90% effective to the actual model prices, ranging above or below the $3000.
 
+![Average ROIs](https://github.com/vileincorp/Time_Series_Project/blob/main/Images/percentchange%20(1).png)
+The yearly percent change for the average return on investments (ROIs) varies from -1% to 2%. The Percent change is at its lowest during 2008 due to the global recession and it hit its peak around 2004, pre-recession. Our client base will also be leaving or entering the DC area every 3-6 years, so we have to take into account that change as well.
+
+![Ideal Zipcodes](https://github.com/vileincorp/Time_Series_Project/blob/main/Images/percentchange_bar%20(1).png)
+The top 18 zipcodes for return on investments were based on the mean house prices in their area. The return on investment is dated from the past 22 years beginning in 1996 all the way to 2018. The return on investment ranged from 100 to 800%, where the top five zip codes are 20001, 20002, 20010, 20003, and 20009, respectively.
+
+![Forecasted Model](https://github.com/vileincorp/Time_Series_Project/blob/main/Images/forcasted_2015.png)
+The predicted model generates house sale prices after 2018, where the house prices are trending upwards, with a great degree of variance due to upcoming worldwide events. Regardless, the normal degree of variance will still be $3000 from the actual house price.
 
 # Conclusion
 - Forecasted prices of these homes trends upwards above 600,000 (USD) after 2018 (within a range of 3000 (USD))
@@ -43,6 +52,7 @@ The rest - datas and their median monthly house sales
 - Best five zip codes to invest: 20001, 20002, 20010, 20003,  and 20009, respectively
 
 # Next Steps
+![DCMAP](https://github.com/vileincorp/Time_Series_Project/blob/main/Images/dc_maps.png)
 - Diplomat Relocation: Helping other diplomats from various countries also find homes in the country where they will be working at specifically
 
 - Corporate Headquarters: Find, assess, and evaluate different homes for specific employees in a corporation once they move to different states after being in Washington DC
