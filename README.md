@@ -34,7 +34,7 @@ SizeRank - ranking of zipcode sizes
 The rest - datas and their median monthly house sales
 
 # Models
-![SARAIMODEL](https://github.com/vileincorp/Time_Series_Project/blob/main/Images/Sari_model.png)
+![SARAIMODEL](https://github.com/vileincorp/Time_Series_Project/blob/main/Images/full_prediction_testing.png)
 The house prices in the DC area will be over $700,000 after 2016, with a house price variance of $3000. The house price model is also about 90% effective to the actual model prices, ranging above or below the $3000.
 
 ![Average ROIs](https://github.com/vileincorp/Time_Series_Project/blob/main/Images/percentchange%20(1).png)
