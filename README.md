@@ -34,9 +34,8 @@ SizeRank - ranking of zipcode sizes
 The rest - datas and their median monthly house sales
 
 # Models
-<div style="width: 1200px;">
-  <img src="https://github.com/vileincorp/Time_Series_Project/blob/main/Sari_model.png" alt="Sarai Model">
-</div>
+<img src="https://github.com/vileincorp/Time_Series_Project/blob/main/Sari_model.png" alt="Sarai Model" style="max-width: 1200px; max-height: 600px;">
+
 
 # Conclusion
 - Forecasted prices of these homes trends upwards above 600,000 (USD) after 2018 (within a range of 3000 (USD))
